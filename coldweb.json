@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "kp.m-team.cc/index",
+        "carpt.net/index.php"
+      ],
+      "domain_suffix": [
+        "yundasys.com",
+        "zyh365.com",
+        "zzdtec.com"
+      ]
+    }
+  ]
+}
+
